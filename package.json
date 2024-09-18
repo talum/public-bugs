@@ -1,0 +1,22 @@
+{
+  "name": "public-bugs",
+  "version": "1.0.0",
+  "description": "beep merging merging merging empty commit message",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talum/public-bugs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talum/public-bugs/issues"
+  },
+  "homepage": "https://github.com/talum/public-bugs#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
