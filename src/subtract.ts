@@ -1,5 +1,5 @@
 function subtract(a,b) {
-  return b - a
+  return 0
 }
 
-modele.exports = subtract
+module.exports = subtract
