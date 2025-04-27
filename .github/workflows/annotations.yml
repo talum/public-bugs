@@ -14,3 +14,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo "::debug::What is happening?"
+          echo "::error file=example.rb,line=-1,endLine=-1,title=This annotation has an invalid endLine (-1)::It was intentionally created to test"
