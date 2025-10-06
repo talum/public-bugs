@@ -4,6 +4,7 @@ beep
 merging merging merging
 empty commit message
 boop
+beep
 
 # squash
 1
